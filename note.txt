@@ -1,0 +1,22 @@
+curl https://codeload.github.com/mui/material-ui/tar.gz/next | tar -xz --strip=2  material-ui-next/examples/material-ui-nextjs
+npm install
+check package.json
+
+dev => developer mode (generate .next folder)
+build => prod level (release index.html)
+start => prod level
+
+   npm run  dev (you can change something in dev mood)
+   npmm run build
+   npm run start
+
+folder base-route
+nested route 
+dynamic route
+https://demo2.pavothemes.com/freshio/home-2/
+
+next js ka react yae framework
+
+xs => break point (extra small)
+
+next.config.mjs ko fix yin port kill pay ya ml

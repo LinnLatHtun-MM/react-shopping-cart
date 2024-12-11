@@ -1,0 +1,17 @@
+.test {
+    background-color: red;
+}
+
+.slick-prev::before,
+.slick-next::before {
+    display: none;
+
+}
+
+/* 
+MT Coding Tech
+8:42 PM
+https://demo2.pavothemes.com/freshio/home-2/
+MT Coding Tech
+9:38 PM
+https://medium.com/@gregory.ovis.second/how-to-add-custom-arrows-to-a-react-slick-carousel-a3aac873c46d#:~:text=The%20first%20thing%20to%20do,these%20properties%20should%20be%20modules.&text=You%20can%20add%20what%20you,from%20the%20React%2DIcons%20library. */
